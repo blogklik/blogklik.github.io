@@ -11,6 +11,8 @@ tanggalpostmodif: 2022-02-15
 categories: email
 tags: ["buat-email-yahoo", "buat-email-gmail", "buat-email-hotmail", "buat-email-lewat-hp"]
 penulis: achmad
+changefreq: monthly
+priority: "0.8"
 banner: buat-email.jpg 
 
 ---

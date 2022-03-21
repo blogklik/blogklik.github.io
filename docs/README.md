@@ -10,7 +10,7 @@
 
 ## Content
 
-* [Preview](#preview)
+* <a href="https://klik-media.com">Preview</a>
 * [Page Details](#page-details)
     * [Home](#home)
     * [Archives](#archives)

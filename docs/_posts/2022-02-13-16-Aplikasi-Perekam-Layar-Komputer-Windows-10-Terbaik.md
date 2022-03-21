@@ -11,6 +11,8 @@ tanggalpostmodif: 2022-02-13
 categories: aplikasi
 tags: ["aplikasi-perekam-layar", "perekam-layar-pc"]
 penulis: achmad
+changefreq: monthly
+priority: "0.8"
 banner: aplikasi-perekam-layar-windows.jpg 
 
 ---
