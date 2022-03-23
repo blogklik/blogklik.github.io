@@ -18,6 +18,8 @@ banner: cara-buat-akun-facebook.jpg
 
 ---
 
+{% include toc.html %}
+
 <p>Tutorial cara membuat akun facebook akan menerangkan tentang bagaimana cara membuat akun di facebook yang merupakan salah satu sosial media yang mempunyai penduduk paling banyak di dunia.</p>
 
 <p>Agar bisa menerapkan tutorial ini, beberapa hal dan ketentuan berikut harus terpenuhi terlebih dahulu.</p>
