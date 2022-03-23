@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cara Membuat Akun Facebook Dengan Cepat"
-judulseo: "7 Cara Membuat File PDF Mudah Dan Cepat Terbaru Dengan Gambar"
+judulseo: "Cara Membuat Akun Facebook Dengan Cepat 5 Menit Jadi"
 deskripsi: "cara membuat akun facebook, dengan cepat dan benar dilengkapi gambar, siapkan KTP dan email yang valid, buat cari jodoh, iklan promosi produk"
 excerpt: "Tutorial cara membuat akun facebook akan menerangkan tentang bagaimana cara membuat akun di facebook yang merupakan salah satu sosial media yang mempunyai penduduk paling banyak di dunia"
 katakunci: "Cara Membuat Akun Facebook Dengan Cepat"
