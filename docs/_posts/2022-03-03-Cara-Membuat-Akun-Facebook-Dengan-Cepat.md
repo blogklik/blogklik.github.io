@@ -6,6 +6,7 @@ deskripsi: "cara membuat akun facebook, dengan cepat dan benar dilengkapi gambar
 excerpt: "Tutorial cara membuat akun facebook akan menerangkan tentang bagaimana cara membuat akun di facebook yang merupakan salah satu sosial media yang mempunyai penduduk paling banyak di dunia"
 katakunci: "Cara Membuat Akun Facebook Dengan Cepat"
 slug: "akun-facebook"
+date: 2022-03-03 01:00:00
 tanggalpostterbit: 2022-03-03 
 tanggalpostmodif: 2022-03-03
 categories: facebook
