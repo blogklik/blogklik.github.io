@@ -6,7 +6,7 @@ deskripsi: "Cara membuat screenshot iphone, menggunakan tool Assistive Touch ata
 excerpt: "Iphone merupakan salah satu produk apple yang laris manis seperti kacang goreng. Tampilan layarnya yang bening menawan disertai tombol menu dan desain yang elegan, menjadikan sebagian orang menjadi tak bisa ke lain hati"
 katakunci: "Cara Membuat Screenshot Di Iphone Dan Ipad"
 slug: "screenshot-di-iphone-dan-ipad"
-date: 2022-03-11 01:20:30
+date: 2022-03-11 15:20:30
 tanggalpostterbit: 2022-03-11
 tanggalpostmodif: 2022-03-11
 categories: hp
