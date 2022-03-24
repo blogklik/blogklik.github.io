@@ -5,7 +5,7 @@
     {% for post in site.posts %}
     <url>
         <loc>{{site.url}}{{ post.url | remove: 'index.html' }}</loc>
-        <lastmod>{{ post.date }}</lastmod>
+        <lastmod>{{ post.tanggalpostmodif }}</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
