@@ -19,6 +19,7 @@ banner: uptime-komputer.jpg
 ---
 
 {% include toc.html %}
+
 <p>Uptime komputer menunjukkan telah berapa lama suatu komputer telah berjalan menjalankan fungsinya dan dalam kondisi hidup. Dalam dunia server, uptime menunjukkan seberapa lama komputer server telah berjalan tanpa berhenti. Uptime komputer server akan menunjukkan nilai 365 (366) hari dalam setahun jika berjalan terus tanpa henti. Jika hal ini terjadi, maka uptime komputer server dapat dikatakan 100%. Jika dalam satu tahun bekerja, uptime komputer tidak sampai 365 hari dalam setahun, maka uptime-nya tidak sampai 100%.</p>
 
 
