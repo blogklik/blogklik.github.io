@@ -17,16 +17,18 @@ banner: buat-email.jpg
 
 ---
 
+{% include toc.html %}
+
 <p>Email menjadi salah satu alat bantu untuk berkomunikasi di dunia online. Email bisa digunakan untuk mengirim surat lamaran kerja, mengirim laporan rutin berkala di kantor, mengabarkan kabar terbaru, mengirim artikel terbaru ke subcriber blog anda dan masih banyak keuntungan lainnya. Oleh karena itu, pada kesempatan kali ini, saya membuat tutorial cara membuat email baru.</p>
 
 <p>Layanan email yang paling banyak digemari salah satunya adalah gmail. Belum tahu tentang gmail? Berikut cara membuat email gmail terbaru.</p>
 
 
-<h2 class="{% include classh2.html %}" > Buat Email Gmail </h2>
+##  Buat Email Gmail 
 
 <p><{% include thegambar.html %} {% include thedatasrc.html %}="{% include sourceimage.html %}/buat-email/buat-email-gmail.png" alt="buat email" title="buat email" {% include classlazy.html %} {% include classimage.html %} ></p>
 
-<h2 class="{% include classh2.html %}"> 1. Cara Membuat Akun Email Gmail Baru </h2>
+##  1. Cara Membuat Akun Email Gmail Baru 
 
 <h3 class="{% include classh3.html %}" >a. Kunjungi web akun google </h3>
 
@@ -81,7 +83,7 @@ banner: buat-email.jpg
 <p>Buka browser dan ketik <a href="#">gmail.com</a> serta tekan enter untuk mulai mengakses akun gmail yang baru.</p>
 
 
-<h2 class="{% include classh2.html %}"> 2. Cara Membuat Email Gmail Baru Lewat HP</h2>
+##  2. Cara Membuat Email Gmail Baru Lewat HP
 
 <p>Pembuatan email gmail baru juga bisa melalui HP, baik itu hp android atau iphone. Selain melalui hp, cara ini juga bisa diterapkan bagi pengguna ipad dan android tablet. Berikut ini langkah-langkahnya :</p>
 
@@ -155,7 +157,7 @@ banner: buat-email.jpg
 <p>Selamat, pembuatan akun gmail baru telah berhasil dilakukan.</p>
 
 
-<h2 class="{% include classh2.html %}">3. Buat Email Baru Dengan Domain Sendiri Memakai Akun Gmail</h2>
+## 3. Buat Email Baru Dengan Domain Sendiri Memakai Akun Gmail
 
 <p>Akun gmail juga bisa diintegrasikan dengan domain, sehingga nama email baru yang dibuat menggunakan nama domain sendiri. Layanan seperti ini biasa disebut dengan email hosting, dengan gmail sebagai hostingnya. Misalnya : <a href="#">akungmailbaru@gmail.com</a>, akan berubah menjadi <a href="#">admin@domainsaya.com</a>.</p>
 
@@ -183,11 +185,11 @@ banner: buat-email.jpg
 <p>Mungkin sobat ingin mencoba layanan email lain. Tidak masalah. Berikut ini saya kasih tutorial cara buat email yahoo baru.</p>
 
 
-<h2 class="{% include classh2.html %}" >Buat Email Yahoo</h2>
+## Buat Email Yahoo
 
 <p><{% include thegambar.html %} {% include thedatasrc.html %}="{% include sourceimage.html %}/buat-email/buat-email-yahoo.png" alt="buat email" title="buat email" {% include classlazy.html %} {% include classimage.html %} ></p>
 
-<h2 class="{% include classh2.html %}">4. Cara Membuat Email Yahoo Baru Lewat Komputer</h2>
+## 4. Cara Membuat Email Yahoo Baru Lewat Komputer
 
 <p>Layanan email lain yang gratis adalah yahoo. Ikuti langkah-langkah berikut untuk mendaftar email yahoo baru lewat komputer.</p>
 
@@ -229,7 +231,7 @@ banner: buat-email.jpg
 <p>Selamat, sobat telah selesai melakukan pendaftaran email dan kini sobat dapat masuk ke akun email.</p>
 
 
-<h2 class="{% include classh2.html %}">5. Cara Membuat Email Yahoo Baru Lewat HP</h2>
+## 5. Cara Membuat Email Yahoo Baru Lewat HP
 
 <p>Pendaftaran email yahoo juga bisa dilakukan melalui hp, baik itu hp android atau iphone. Jika kebetulan sobat hanya memiliki ipad dan android tablet, cara ini juga masih bisa diterapkan.</p>
 
@@ -289,7 +291,7 @@ banner: buat-email.jpg
 <p>Selamat, sobat telah selesai melakukan pendaftaran email dan kini sobat dapat masuk ke akun email.</p>
 
 
-<h2 class="{% include classh2.html %}"> 6. Cara Buat Email Baru Dengan Smallbusiness Yahoo</h2>
+##  6. Cara Buat Email Baru Dengan Smallbusiness Yahoo
 
 <p>Berikut ini cara membuat email baru yahoo dengan domain sendiri.</p>
 
@@ -339,11 +341,11 @@ banner: buat-email.jpg
 <p>Jika sobat masih ingin membuat email lainnya. Seperti banyak teman yang memiliki email yang banyak. Baiklah. Berikut ini cara membuat email hotmail baru.</p>
 
 
-<h2 class="{% include classh2.html %}" > Buat Email Hotmail</h2>
+##  Buat Email Hotmail
 
 <p><{% include thegambar.html %} {% include thedatasrc.html %}="{% include sourceimage.html %}/buat-email/buat-email-hotmail.png" alt="buat email" title="buat email" {% include classlazy.html %} {% include classimage.html %} ></p>
 
-<h2 class="{% include classh2.html %}">7. Cara Membuat Email Hotmail Baru Lewat Komputer</h2>
+## 7. Cara Membuat Email Hotmail Baru Lewat Komputer
 
 <h3 class="{% include classh3.html %}" >a. Kunjungi website https://account.microsoft.com/account</h3>
 
@@ -381,7 +383,7 @@ banner: buat-email.jpg
 <p>Silakan klik pada panah yang muncul di sebelah kanan. Pada akhir menu, pengguna akan melihat menu "Mari Kita Mulai". Klik menu tersebut untuk mulai menggunakan email.</p>
 
 
-<h2 class="{% include classh2.html %}" >8. Cara Membuat Email Hotmail Baru Lewat HP</h2>
+## 8. Cara Membuat Email Hotmail Baru Lewat HP
 
 <h3 class="{% include classh3.html %}" >a. Unduh aplikasi mobile gmail.</h3>
 
@@ -428,7 +430,7 @@ banner: buat-email.jpg
 <p>Untuk mengakses email lewat hp adalah sangat mudah. Pada saat menambahkan akun email  (langkah nomor 3), masukkan alamat email dan password yang telah dibuat tadi. Setelah itu, sobat bisa ber-email ria lewat hp menggunakan email hotmail.</p>
 
 
-<h2 class="{% include classh2.html %}">9. Cara Buat Email Baru Dengan Domain Sendiri Microsoft Office365</h2>
+## 9. Cara Buat Email Baru Dengan Domain Sendiri Microsoft Office365
 
 <p>Sepertinya dengan gmail dan yahoo, pemilik akun hotmail/outlook/micrsofot dapat memiliki nama email dengan domain sendiri atau custom domain. Contoh : admin@domainsaya.com.</p>
 
@@ -469,7 +471,7 @@ banner: buat-email.jpg
 <p>Proses integrasi ini tidak akan lama, kira-kira tidak sampai 24 jam.</p>
 
 
-<h2 class="{% include classh2.html %}">Kesimpulan</h2>
+## Kesimpulan
 
 <p>Di era modern dengan semakin menggeliatnya bisnis di dunia internet, membuat penggunaan email menjadi semakin marak. Tidak heran, semakin banyak penyedia layanan email hosting dan email marketing dengan harga murah untuk melayani permintaan produk seperti ini.</p>
 

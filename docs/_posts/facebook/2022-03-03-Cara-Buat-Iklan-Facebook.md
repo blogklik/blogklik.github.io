@@ -18,6 +18,8 @@ banner: iklan-facebook.jpg
 
 ---
 
+{% include toc.html %}
+
 <p>Membuat iklan facebook yang tertarget sangatlah mudah. Di dalam artikel ini, saya akan menunjukkan tentang bagaimana cara membuat iklan di facebook dengan cara mudah dan tidak ribet. Membuat iklan di facebook adalah hal yang sering dilakukan oleh banyak pemilik toko online di indonesia. Selain itu, para pemilik layanan digital seperti portal berita juga banyak membuat iklan di Facebook untuk menarik pemirsa yang diharapkan menjadi pemirsa setia. Facebook merupakan salah satu raksasa perusahaan sosial media saat ini.</p> 
 
 <p>Dengan pengguna mencapai hampir 1 milyar menjadikan iklan facebook salah satu sumber pendapatan bagi pemiliknya sekaligus juga sebagai sumber calon pembeli bagi pemilik toko online dengan adanya jasa pemasangan iklan di facebook. Harga iklan yang tidak begitu besar dengan jumlah pemirsa yang besar dan bisa dikelompokkan dalam kelompok-kelompok tertentu yang menguntungkan bagi pemilik barang atau toko online, menjadikan facebook salah satu sumber calon customer yang banyak dipertimbangkan dalam menggaet pangsa pasar online.</p>
@@ -35,7 +37,7 @@ banner: iklan-facebook.jpg
 <p>Itu tadi sekelumit tentang bagaimana cara facebook memberikan harga iklan yang diberlakukan di sistem yang dibuatnya. Kami tidak tahu persis, bagaimana kerjanya, namun jika anda seorang yang mempunyai toko online atau ingin memasarkan suatu produk tertentu, bisa mencoba menerapkan beberapa iklan sekaligus, dan melihat iklan yang mana yang menghasilkan konversi yang bagus. Setelah mengetahui mana iklan yang bagus hasilnya, dapat meneruskan iklan tersebut sampai mencapai titik maksimal.</p>
 
 
-<h2 class="{% include classh2.html %}" >Cara Membuat Iklan Facebook Untuk Pemula</h2>
+## Cara Membuat Iklan Facebook Untuk Pemula
 
 <p>Iklan di facebook sebenarnya tidaklah sulit. Bagian tersulitnya adalah saat kita akan menentukan mana iklan yang dapat memberikan keuntungan yang bagus. Untuk itu, teman perlu mencoba, dengan menerapkan sistem coba-coba iklan dengan sungguh-sungguh untuk mencari iklan facebook yang memberikan hasil maksimal. Untuk mencari iklan dengan hasil maksimal, mari latihan dengan membuat iklan sederhana. Untuk membuat iklan sederhana, silakan ikuti langkah berikut ini.</p>
 
@@ -155,7 +157,7 @@ banner: iklan-facebook.jpg
 <p><{% include thegambar.html %} {% include thedatasrc.html %}="{% include sourceimage.html %}/iklanfb/proses-pembayaran-1.JPG" alt="cara membuat iklan facebook" title="cara membuat iklan facebook" {% include classlazy.html %} {% include classimage.html %} ></p>
 
 
-<h2 class="{% include classh2.html %}" >Cara Transfer Dana Iklan</h2>
+## Cara Transfer Dana Iklan
 
 <p>1. Dengan transfer melalui ATM bersama.</p>
 
@@ -179,7 +181,7 @@ banner: iklan-facebook.jpg
 
 <p>Dana yang tersedia akan berkurang sedikit demi sedikit sesuai dengan biaya iklan dan biaya klik yang telah ditentukan sebelumnya. Perhatikan kerja iklan yang sedang berjalan. Buat beberapa model iklan dan perhatikan mana di antara model-model iklan tersebut yang memberikan hasil yang maksimal. Karena kita tidak tahu apakah suatu iklan akan menghasilkan banyak keuntungan atau tidak. Cara satu-satunya adalah dengan membuat beberapa model iklan. Mumpung biaya iklan facebook masih murah dan mudah untuk membuatnya, alangkah baiknya jika teman mempunyai produk yang bagus, diiklankan di facebook.</p>
 
-<h2 class="{% include classh2.html %}" >Kesimpulan</h2>
+## Kesimpulan
 
 <p>Facebook adalah salah satu media sosial yang memiliki segmen pasar yang sangat luas. Hal paling sulit ketika memasarkan produk dengan beriklan di facebook adalah bagaimana mengubah pengunjung dari iklan tersebut menjadi konversi penjualan yang maksimal. Saya pernah mencoba target market amerika. Konversi penjualannya sekitar 3 persen (3 %). Itu artinya setiap 100 orang pengunjung hanya 3 orang yang melakukan pembelian barang. Begitu pun dengan beriklan di google adwords. Konversinya juga sama sekira 3 persen (3 %). Kok bisa sama? Inilah seninya beriklan di dunia online. Dan saya pun belum tahu persis kenapa beriklan di google adwords konversinya sama dengan beriklan di facebook.</p>
 
