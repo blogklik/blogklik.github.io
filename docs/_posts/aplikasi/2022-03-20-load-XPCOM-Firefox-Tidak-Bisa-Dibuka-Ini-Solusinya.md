@@ -4,6 +4,7 @@ title: "Couldn’t load XPCOM Firefox Tidak Bisa Dibuka Ini Solusinya"
 judulseo: "Couldn’t load XPCOM Firefox Tidak Bisa Dibuka Ini Solusinya"
 deskripsi: "Solusi Couldn’t load XPCOM Firefox Tidak Bisa Dibuka, biasanya karena crash program atau file yang corrupted, ada tiga solusi"
 excerpt: "Firefox saya tiba-tiba error, muncul tulisan Couldn’t load XPCOM. Hal ini terjadi setelah saya install beberapa software dari internet. Padahal aplikasi yang saya install termasuk aplikasi dari website terpercaya dan bebas dari segala bentuk virus"
+katakunci: "Couldn’t load XPCOM"
 slug: "couldnt-load-xpcom-mozilla"
 date: 2022-03-20 01:00:00
 tanggalpostterbit: 2022-03-20 
