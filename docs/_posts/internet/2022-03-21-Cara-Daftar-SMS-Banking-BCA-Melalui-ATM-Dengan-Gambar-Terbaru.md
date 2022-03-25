@@ -91,7 +91,7 @@ Bagi pelanggan pascabayar, akan menambah tagihan bulanan ponsel.</p>
 <p><u>Bila terjadi gangguan layanan operator selular atau sistem perbankan bca, maka layanan sms banking tidak bisa dilakukan</u></p>
 
 
-## Cara Transaksi</p>
+## Cara Transaksi
 
 
 ### 1. Dengan kartu simcard
